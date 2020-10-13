@@ -1,5 +1,5 @@
 # Web Scraping Scripts
-<img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/Scrapy-Logo-big.png?raw=true" width="300" align='centre'>
+<img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/Scrapy-Logo-big.png?raw=true" width="400" align='center'>
 Overview
 ========
 
