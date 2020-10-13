@@ -20,7 +20,8 @@ including a list of features.
 - All restaurants in gandhinagar (Gujarat) from zomato.
 - Basic scraping of quotes.scrape.com
 
-### Technologies used 
+### Technologies used
+<img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/mop.gif?raw=true" width="400" align='right'>
 - Scrapy
 
 ### Languages used
