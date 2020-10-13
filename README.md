@@ -20,7 +20,7 @@ including a list of features.
     3. Most popular TV shows.
     4. Top rated TV shows.
     5. Top rated movies.
-- All restaurants in gandhinagar (Gujarat) from zomato.<img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/zomato.png?raw=true" width="50" align=''>
+- All restaurants in gandhinagar (Gujarat) from zomato.<img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/zomato.png?raw=true" width="100" align=''>
 - Basic scraping of quotes.scrape.com
 
 ### Technologies used
