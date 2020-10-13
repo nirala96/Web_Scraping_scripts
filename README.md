@@ -1,5 +1,8 @@
 # Web Scraping Scripts
+<p align = "center">
+    <a href = "">
 <img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/Scrapy-Logo-big.png?raw=true" width="400" align='center'>
+        </a>
 Overview
 ========
 
@@ -11,13 +14,13 @@ Check the Scrapy homepage at https://scrapy.org for more information,
 including a list of features.
 
 ### My Script contains <img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/spider-clipart-animation-3.gif?raw=true" width="40" align='center'>
-- IMDB in multiple 
+- IMDB in multiple domains.  <img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/Imdb.jpg?raw=true" width="50" align=''>
     1. Most popular movies.
     2. Lowest rated movies.
     3. Most popular TV shows.
     4. Top rated TV shows.
     5. Top rated movies.
-- All restaurants in gandhinagar (Gujarat) from zomato.
+- All restaurants in gandhinagar (Gujarat) from zomato.<img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/zomato.png?raw=true" width="50" align=''>
 - Basic scraping of quotes.scrape.com
 
 ### Technologies used
