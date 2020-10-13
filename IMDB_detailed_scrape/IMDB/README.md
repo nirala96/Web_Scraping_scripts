@@ -1,7 +1,7 @@
 # IMDB in multiple domains
 <p align = "center">
 <a href = "">
-<img src ="https://github.com/nirala69/Web_Scraping_scripts/blob/main/Imdb.jpg" alt="Logo">
+<img src ="https://github.com/nirala69/Web_Scraping_scripts/blob/main/Imdb.jpg" width="100" alt="Logo">
 </a>
 - [Most popular movies](https://github.com/nirala69/Web_Scraping_scripts/blob/main/IMDB_detailed_scrape/IMDB/outputs/popular_movies.csv).
 - [Lowest rated movies](https://github.com/nirala69/Web_Scraping_scripts/blob/main/IMDB_detailed_scrape/IMDB/outputs/lowest_rated_movies.csv).
