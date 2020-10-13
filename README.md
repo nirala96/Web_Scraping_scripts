@@ -10,7 +10,7 @@ a wide range of purposes, from data mining to monitoring and automated testing.
 Check the Scrapy homepage at https://scrapy.org for more information,
 including a list of features.
 
-### My Script contains
+### My Script contains <img src="https://github.com/nirala69/Web_Scraping_scripts/blob/main/spider-clipart-animation-3.gif?raw=true" width="40" align='center'>
 - IMDB in multiple 
     1. Most popular movies.
     2. Lowest rated movies.
